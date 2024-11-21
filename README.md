@@ -18,5 +18,4 @@ numpy
 ```
 
 ## Ejecución
-1. Asegúrate de tener el archivo `vehicles_us.csv` en el directorio del proyecto
-2. Ejecuta: `streamlit run app.py`
+1. Visita el siguiente enlace: https://project-sprint7.onrender.com/
