@@ -4,6 +4,8 @@
 ## Descripción
 Dashboard web construido con Streamlit que permite explorar y visualizar datos del mercado de vehículos usados. La aplicación ofrece visualizaciones interactivas para analizar precios y características de los vehículos.
 
+[English Version](README.en.md)
+
 ## Funcionalidades
 - Histograma interactivo de precios de vehículos
 - Gráfico de dispersión que muestra la relación entre el año del modelo y el precio
