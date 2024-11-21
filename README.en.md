@@ -3,7 +3,7 @@
 ## Description
 Web dashboard built with Streamlit that allows you to explore and visualize used vehicle market data. The application provides interactive visualizations to analyze vehicle prices and characteristics.
 
-[Versión en español](README.es.md)
+[Versión en español](README.md)
 
 ## Features
 - Interactive price histogram
